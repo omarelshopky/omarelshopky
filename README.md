@@ -21,7 +21,8 @@
 [<img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" />]()
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" />]()
 [<img align="left" alt="Docker" width="26px" src="https://cdn.worldvectorlogo.com/logos/docker.svg" />]()
-<br>
+<br><br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarelshopky&langs_count=15&layout=compact&theme=radical)](https://github.com/omarelshopky?tab=repositories)
 
 ### <br> 📫 How to reach me:
 [<img src='https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg' alt='Email' height='40'>](mailto:omarheshamali202@gmail.com)
