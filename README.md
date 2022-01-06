@@ -33,7 +33,7 @@
 
 
 ### 🌟 Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omarelshopky&theme=radical)](https://github.com/omarelshopky)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omarelshopky&theme=radical&include_all_commits=true&count_private=true)](https://github.com/omarelshopky)
 
 
 ### 📈 Stats:
