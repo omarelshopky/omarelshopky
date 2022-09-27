@@ -1,7 +1,7 @@
 ## Hi there, I'm Omar Elshopky 👋
 
-### I am a Cyber Security Engineer, aspire to combine Embedded Systems with Cyber Security.
-- 📚  2nd Year Student at Faculty of Computer Science - Ain Shams University.
+### I am an Application Security Engineer, and a Cloud Service Specialist..
+- 📚  Student at Faculty of Computer Science - Ain Shams University.
 
 ### 👨🏻‍💻 Languages and Skills:
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />]()
