@@ -1,6 +1,6 @@
 ## Hi there, I'm Omar Elshopky 👋
 
-### I am an Application Security Engineer, and a Cloud Service Specialist..
+### I am a Cyber Security Specialist and a Full Stack Developer..
 - 📚  Student at Faculty of Computer Science - Ain Shams University.
 
 ### 👨🏻‍💻 Languages and Skills:
