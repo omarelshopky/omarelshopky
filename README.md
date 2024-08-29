@@ -8,7 +8,7 @@ My solid development background uniquely positions me to help companies secure t
 [<a href="https://certs.ine.com/cee31f2b-2e35-4c0b-9d46-e5aa99a76e1b"><img align="left" alt="eCPPTv2 Badge" width="200px" src="https://github.com/omarelshopky/Certificates/blob/main/eLearnSecurity_eCPPTv2/ecpptv2_badge.png" /></a>]()
 [<a href="https://certs.ine.com/3d08e46e-c886-448b-82d8-e75b8c5a30dc"><img align="left" alt="eWPTXv2 Badge" width="200px" src="https://github.com/omarelshopky/Certificates/blob/main/eLearnSecurity_eWPTXv2/ewptxv2_badge.png" /></a>]()
 [<a href="https://certs.ine.com/64f9cd00-4fb4-45b0-9661-a620dbcedbb1"><img align="left" alt="eJPTv1 Badge" width="200px" src="https://github.com/omarelshopky/Certificates/blob/main/eLearnSecurity_eJPTv1/ejptv1_badge.png" /></a>]()
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ### 👨🏻‍💻 Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarelshopky&langs_count=15&layout=compact&theme=radical)](https://github.com/omarelshopky?tab=repositories)
