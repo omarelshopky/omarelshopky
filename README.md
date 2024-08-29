@@ -1,28 +1,20 @@
 ## Hi there, I'm Omar Elshopky 👋
 
-### I am a Cyber Security Specialist and a Full Stack Developer..
-- 📚  Student at Faculty of Computer Science - Ain Shams University.
+I am a **cybersecurity specialist** and **professional penetration tester** with three years of hands-on experience, including two years in cybersecurity and one and a half years focused on software engineering. My expertise spans web, network, and source code review penetration testing. I am particularly passionate about the security of hardware, embedded systems, ICS, and the Internet of Things, with a strong ability to both build and secure these technologies, which I pentest in my own lab.
 
-### 👨🏻‍💻 Languages and Skills:
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />]()
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />]()
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />]()
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />]()
-[<img align="left" alt="PHP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" />]()
-[<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" />]()
-[<img align="left" alt="CSS3" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" />]()
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />]()
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />]()
-[<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />]()
-[<img align="left" alt="Arduino" width="26px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />]()
-[<img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" />]()
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" />]()
-[<img align="left" alt="Docker" width="26px" src="https://cdn.worldvectorlogo.com/logos/docker.svg" />]()
-<br><br><br>
+My solid development background uniquely positions me to help companies secure their infrastructure and digital assets more effectively than others in the field. I have been instrumental in securing critical assets for companies across Egypt, Europe, and the Gulf, and have also played a key role in building penetration testing frameworks, tools and raising cybersecurity awareness. My year of freelancing has further sharpened my business acumen, client management, and project-handling skills. Additionally, I have self-studied business concepts, which I apply in running a side business in additive manufacturing.
+
+### Certificates
+[<a href="https://certs.ine.com/cee31f2b-2e35-4c0b-9d46-e5aa99a76e1b"><img align="left" alt="eCPPTv2 Badge" width="200px" src="https://github.com/omarelshopky/Certificates/blob/main/eLearnSecurity_eCPPTv2/ecpptv2_badge.png" /></a>]()
+[<a href="https://certs.ine.com/3d08e46e-c886-448b-82d8-e75b8c5a30dc"><img align="left" alt="eWPTXv2 Badge" width="200px" src="https://github.com/omarelshopky/Certificates/blob/main/eLearnSecurity_eWPTXv2/ewptxv2_badge.png" /></a>]()
+[<a href="https://certs.ine.com/64f9cd00-4fb4-45b0-9661-a620dbcedbb1"><img align="left" alt="eJPTv1 Badge" width="200px" src="https://github.com/omarelshopky/Certificates/blob/main/eLearnSecurity_eJPTv1/ejptv1_badge.png" /></a>]()
+<br><br><br><br><br><br><br><br>
+
+### 👨🏻‍💻 Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarelshopky&langs_count=15&layout=compact&theme=radical)](https://github.com/omarelshopky?tab=repositories)
 
 ### <br> 📫 How to reach me:
-[<img src='https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg' alt='Email' height='40'>](mailto:omarheshamali202@gmail.com)
+[<img src='https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg' alt='Email' height='40'>](mailto:omar.elshopky202@gmail.com)
 &nbsp;&nbsp;
 [<img src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg' alt='Facebook' height='40'>](https://www.facebook.com/omarelshopky1)
 &nbsp;&nbsp;
